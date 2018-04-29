@@ -1,0 +1,13 @@
+
+Michael Martinez
+2018 Senior Caprone Project
+UrScore
+Interactive golf scorecard application
+
+UrScore was built using Swift 4 and Xcode 9.2 (beta)
+
+-The app is fully functional and can either run on the simulator or be side loaded. Everything is working coreectly besides a few small errors listed below. I am currently working to get submitted to Apple for the iOS app store.
+
+-Currently, the share button is not able to share to social networks and I am working on the updatet to fix.
+-I am working on PickerViews for both the par and score counters
+-The previous button should not be able to go back more than one hoe, to prevent changing scores, and I am working on an update to fix that issue.
