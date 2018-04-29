@@ -11,3 +11,6 @@ UrScore was built using Swift 4 and Xcode 9.2 (beta)
 -Currently, the share button is not able to share to social networks and I am working on the updatet to fix.
 -I am working on PickerViews for both the par and score counters
 -The previous button should not be able to go back more than one hoe, to prevent changing scores, and I am working on an update to fix that issue.
+
+How it differs from my original design?
+ALthough I originally had the idea for a basic golf scorecard, I evolved my idea to include encouragement messages which are used as tool to enhance the users enjoyment as well as help grow the game.
