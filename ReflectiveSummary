@@ -1,0 +1,14 @@
+"UrScore", a golf scorecard application that will be available on the iOS app store. 
+Though there are many scorecard apps available on the market, UrScore will be a streamlined 
+app where the user does NOT have to remember usernames and passwords, instead, ready to use 
+once the app is opened. Using Xcode and Swift 4, the app will feature an easy to use design, 
+pop-up notifications based on the score you get for each hole, and the ability to email and share 
+your score.
+Having taken the Udemy course and reading through Apple’s developer documentation, I could learn 
+and implement the basic iOS functions. I learned to work with UIViewControllers, UIAlertControllers,
+button controls, label controls, and navigation through the Xcode UI. This foundation has enabled me 
+to start working on additional, more advanced features, for my app including a weather widget, where I 
+use the Alamofire Cocoapod and a weather API to tell the user what the current weather is and what it 
+will be in the next few hours. I am still in the process of building these additional features but 
+knowing that I have the basic abilities to use the tools required for iOS development has helped greatly 
+with my confidence.
